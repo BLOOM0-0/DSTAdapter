@@ -47,6 +47,7 @@ To use this model, you need to have the following installed:
 This repository provides the following files:
 
 `mmaction2/models/backbones/dstadapter.py`: The model architecture file.
+
 `mmaction2/configs/recognition/dst_adapter/stadapter_vit_[base/large]_[dataset_name].py`: The parameter file.
 
 ### Usage
